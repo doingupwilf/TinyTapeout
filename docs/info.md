@@ -13,7 +13,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How to test
 
-Explain how to use your project
+Press play
 
 ## External hardware
 
